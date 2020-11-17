@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/TJblue94/ONOFF_BudgetTracker#readme",
   "dependencies": {
+    "compression": "^1.7.4",
     "nodemon": "^2.0.6"
   }
 }
